@@ -10,8 +10,8 @@ import javafx.scene.text.Text;
 public class LayoutController {
     
     //WARNING: CHANGE PATHS TO APPROPIATE IMAGES
-    static String O =  LayoutController.class.getResource("images/o.png").toString(),//"file:/C:/Users/akash/coding/javafx/tictactoe/src/main/resources/com/game/images/o.png",
-                  X =  LayoutController.class.getResource("images/x.png").toString(); //"file:/C:/Users/akash/coding/javafx/tictactoe/src/main/resources/com/game/images/x.png";
+    static String O =  LayoutController.class.getResource("images/o.png").toString();
+                  X =  LayoutController.class.getResource("images/x.png").toString(); 
     @FXML private Text theOnlyTextField;
 
 
