@@ -10,7 +10,7 @@ import javafx.scene.text.Text;
 public class LayoutController {
     
     //WARNING: CHANGE PATHS TO APPROPIATE IMAGES
-    static String O =  LayoutController.class.getResource("images/o.png").toString();
+    static String O =  LayoutController.class.getResource("images/o.png").toString(),
                   X =  LayoutController.class.getResource("images/x.png").toString(); 
     @FXML private Text theOnlyTextField;
 
