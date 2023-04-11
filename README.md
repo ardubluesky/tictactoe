@@ -31,7 +31,7 @@ step 3:
 learn, all of the files have comments which will guide you properly and help a lot
 ```
 
-packaging has been difficult for me as jdks have started to pull out javafx, hence i will try to put a zip file in the releases.
+packaging has been difficult for me as jdks have started to pull out javafx, hence i will try to put a zip file in the releases. maven will take care of openjfx download.
 
 
 # But why this project?
